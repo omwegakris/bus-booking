@@ -1,3 +1,3 @@
 course = "Python programming"
 length = len(course)
-print(course[0])
+print(course[0:6])
