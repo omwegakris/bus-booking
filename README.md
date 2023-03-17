@@ -1,2 +1,3 @@
 # bus-booking
-Simple nodeJs app for bus booking management
+
+Simple Python app for bus booking management
