@@ -1,13 +1,9 @@
-course = "Python programming"
-length = len(course)
+admition = {"first_name": "Omwega",
+            "last_name": "Chrispin",
+            "career": "Engineer",
+            "residence": "Barnabas"}
 
-first_name = "Chris"
-last_Name = "Omwega"
-sir_name = "Omwando"
-
-full_name = f"{first_name} {last_Name} {sir_name}"
-
-print(full_name)
-
-official_name = first_name + " "+last_Name
-print(official_name)
+print(admition["first_name"])
+print(admition["las_tname"])
+print(admition["career"])
+print(admition["residence"])
